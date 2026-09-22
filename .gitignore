@@ -1,0 +1,5 @@
+# Runtime / generated
+Saved/SavedArks/
+Saved/Logs/
+*.log
+*.tmp
